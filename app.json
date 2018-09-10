@@ -1,5 +1,10 @@
 {
   "expo": {
-    "sdkVersion": "27.0.0"
+    "sdkVersion": "27.0.0",
+    "name": "tinder-for-cat",
+    "slug": "tinder-for-cat",
+    "version": "0.1.0",
+    "description": "",
+    "githubUrl": "https://github.com/lukyman/tinder-for-cat-with-reactnative.git"
   }
 }
